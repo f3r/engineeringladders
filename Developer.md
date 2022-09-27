@@ -9,7 +9,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 3 | No | [D3 - Developer 3](#d3---developer-3) |
 | 4 | Yes | [D4 - Developer 4](#d4---developer-4) |
 | 5 | Yes | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Yes | [D6 - Developer 6](#d6---developer-6) |
+| 6 | Yes | [D6 - Developer 6B](#d6---developer-6B) |
 | 7 | Yes | [D7 - Developer 7](#d7---developer-7) |
 
 ## D1 - Developer 1
